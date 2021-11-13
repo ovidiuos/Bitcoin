@@ -8,7 +8,7 @@ https://bitcoincore.org/en/download/.
 
 Further information about Bitcoin Core is available in the [doc folder](/doc).
 
-What is SatoshiBitcoin?
+What is Bitcoin?
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
